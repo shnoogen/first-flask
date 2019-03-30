@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+	
+    <!-- Bootstrap -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/fontawesome-all.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="../static/css/styles.css">
+	
+  </head>
+  <body>
+    
+    
+
+	<!-- the full dict for a kanyeident is sent here as kanye by the route -->
+
+	<h1>New God Flow (with Pusha T)</h1>
+
+	<!-- NOTE the pattern for pointing to a file inside the static folder -->
+
+	<p>"New God Flow (with Pusha T)" is the 36th single released by singer-songwriter, Kanye West. It was released in 2012 on the album, Cruel Summer. The single peaked on U.S. music charts at 89.
+	</p>
+
+	<p><a href="https://www.youtube.com/watch?v=nRdYPYf7eds">View Youtube video for New God Flow (with Pusha T).</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different song.</p>
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

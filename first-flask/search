@@ -1,0 +1,122 @@
+<!--<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>
+Search for Songs
+</title>
+    <!-- Bootstrap -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/fontawesome-all.min.css" rel="stylesheet">
+  </head>
+  <body>
+    
+    
+
+<div class="container">
+	<div class="row">
+		<div class="col-xl-12">
+
+			<h1 class="mt-5">Search for Kanye's singles</h1>
+
+			<p class="lead">Type any part of a Kanye single's name to search.</p>
+
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-8 col-md-10 col-sm-12 alert alert-warning p-4">
+
+			
+<form action="" method="post"
+  class="form" role="form">
+  <input id="csrf_token" name="csrf_token" type="hidden" value="IjFlNGRlMjBlMGQ2MjliOWMxMjRlODgwYmMwYmI4MDlkZDFkNWIwYmQi.XJ7Z8A.ieWVj7FTnRtAEjO86ohTO4Sj2J0">
+  
+    
+
+
+
+
+
+
+
+  
+
+
+    <div class="form-check">
+        <label class="form-check-label">
+          <input class="form-check-input" id="category-0" name="category" type="radio" value="President"> President's Name, e.g. John
+        </label>
+      </div>
+    <div class="form-check">
+        <label class="form-check-label">
+          <input class="form-check-input" id="category-1" name="category" type="radio" value="Home-state"> Home State, e.g. Virginia
+        </label>
+      </div>
+    <div class="form-check">
+        <label class="form-check-label">
+          <input class="form-check-input" id="category-2" name="category" type="radio" value="Occupation"> Occupation, e.g. Lawyer
+        </label>
+      </div>
+    <div class="form-check">
+        <label class="form-check-label">
+          <input class="form-check-input" id="category-3" name="category" type="radio" value="College"> College, e.g. Harvard
+        </label>
+      </div>
+    
+  
+
+
+
+
+    
+
+
+
+
+
+
+<div class="form-group  required"><label class="form-control-label" for="text">Type full or partial text to search for:</label>
+        
+          <input class="form-control" id="text" name="text" required type="text" value="">
+        
+  </div>
+
+
+    
+
+
+
+
+
+  
+
+  
+  
+
+
+    <input class="btn btn-primary" id="submit" name="submit" type="submit" value="Search">
+  
+
+
+
+
+    
+
+</form>
+
+			<p class="mt-4"><strong></strong></p>
+
+		</div>
+	</div>
+</div>
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

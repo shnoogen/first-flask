@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title></title>
+	
+    <!-- Bootstrap -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/fontawesome-all.min.css" rel="stylesheet">
+		<link rel="stylesheet" href="../static/css/styles.css">
+	
+  </head>
+  <body>
+    
+    
+
+	<!-- the full dict for a kanyeident is sent here as kanye by the route -->
+
+	<h1>Stronger</h1>
+
+	<!-- NOTE the pattern for pointing to a file inside the static folder -->
+
+	<p>"Stronger" is the 13th single released by singer-songwriter, Kanye West. It was released in 2007 on the album, Graduation. The single peaked on U.S. music charts at 1.
+	</p>
+
+	<p><a href="https://www.youtube.com/watch?v=PsO6ZnUZI0g">View Youtube video for Stronger.</a></p>
+
+	<!-- NOTE the way to link to a route: Use the function name -->
+	<p><a href="../index.html">Return to the list</a> to select a different song.</p>
+
+
+
+    
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
